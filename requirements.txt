@@ -1,0 +1,6 @@
+streamlit>=1.38
+plotly>=5.22
+pandas>=2.2
+numpy>=1.26
+streamlit-autorefresh>=1.0.1
+pyserial>=3.5
